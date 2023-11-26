@@ -123,6 +123,10 @@ Add the following code to a HTML Element on Desktop.view.
 </script>
 ```
 
+### Step 4: View in live view
+
+![image](./docs/images/Screenshot.png)
+
 ## Customizing npm Packages
 
 If you wish to use different npm packages other than `chart.js`, you can easily remove `chart.js` and add your desired packages by running the following command:
