@@ -71,7 +71,7 @@ After building, add the generated JavaScript file to your TwinCAT HMI project by
 
 Then, you can use the npm packages as follows:
 
-Add the following code to a HTML Element on Desktop.view.
+Add the following code to a TcHmiHtmlHost on Desktop.view.
 
 ```html
 <canvas id="myChart" style="width:100%;max-width:700px"></canvas>
